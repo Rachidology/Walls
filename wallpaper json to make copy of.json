@@ -1,9 +1,9 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "",
-        "InterAd": "",
-        "NativeAd": "",
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "NativeAd": "admob",
         "admob_banner": "banner",
         "admob_inter": "interrrr",
         "admob_native": "native",
