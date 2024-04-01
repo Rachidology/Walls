@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "",
         "NativeAd": "admob",
         "admob_banner": "ca-app-pub-9488406985433182/3186768014",
         "admob_inter": "ca-app-pub-9488406985433182/5956401584",
