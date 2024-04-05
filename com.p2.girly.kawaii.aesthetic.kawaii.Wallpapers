@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "",
+        "InterAd": "unity",
         "NativeAd": "admob",
         "admob_banner": "ca-app-pub-9488406985433182/4385476649",
         "admob_inter": "ca-app-pub-9488406985433182/6160124135",
@@ -15,7 +15,7 @@
         "max_native": "64ea2f2ef41edb34",
 		"ironsource_api": "1011dee21",
 		"unityTest": false,
-        "unityGameID": "GAMEID",
+        "unityGameID": "5591891",
         "unityBanner": "Banner_Android",
         "unityInter": "Interstitial_Android",
         "intersitial_click_activites": 6,
