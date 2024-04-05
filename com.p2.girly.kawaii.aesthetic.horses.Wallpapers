@@ -2,7 +2,7 @@
     "Ads": {
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "unity",
         "NativeAd": "admob",
         "admob_banner": "ca-app-pub-9488406985433182/1478643090",
         "admob_inter": "ca-app-pub-9488406985433182/9526122685",
@@ -18,8 +18,8 @@
         "unityGameID": "GAMEID",
         "unityBanner": "Banner_Android",
         "unityInter": "Interstitial_Android",
-        "intersitial_click_activites": 6,
-		"intersitial_click_list": 8
+        "intersitial_click_activites": 3,
+		"intersitial_click_list": 4
 
     }
 }
