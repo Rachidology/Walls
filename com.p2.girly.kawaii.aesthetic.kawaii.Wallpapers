@@ -18,8 +18,8 @@
         "unityGameID": "5591891",
         "unityBanner": "Banner_Android",
         "unityInter": "Interstitial_Android",
-        "intersitial_click_activites": 6,
-		"intersitial_click_list": 8
+        "intersitial_click_activites": 3,
+		"intersitial_click_list": 4
 
     }
 }
